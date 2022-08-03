@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Bijin
 
-* A tech enthusiast
-* Passionate about learning new things
+A tech enthusiast, highly self-motivated and passionate about learning new things.
 * Riding into ME[R](https://reactjs.org)N stack web development
 * Currently focusing on Front-end development
 * See my portfolio at [Bijin](https://bijink.github.io/bijin)
