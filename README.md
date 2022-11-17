@@ -12,12 +12,12 @@ A tech enthusiast, highly self-motivated and passionate about learning new thing
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" alt="Javascript" /></a>
 <!-- ts -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="30" alt="Typescript" /></a>
-<!-- html -->
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" alt="HTML5" /></a>
 <!-- reactjs -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30" alt="ReactJS" /></a>
 <!-- nextjs -->
 <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="30" alt="NextJS" /></a>
+<!-- html -->
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" alt="HTML5" /></a>
 <!-- css -->
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" alt="CSS3" /></a>
 <!-- sass -->
