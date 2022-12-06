@@ -46,4 +46,4 @@ A tech enthusiast, highly self-motivated and passionate about learning new thing
 </div>
 
 <!-- graph -->
-<a href="http://www.github.com/bijink?tab=repositories"><img src="https://activity-graph.herokuapp.com/graph?username=bijink&bg_color=ffffff00&color=8b949e&line=26a641&point=8b949e&area_color=26a641&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="github contribution graph" /></a>
+<a href="http://www.github.com/bijink?tab=repositories"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bijink&bg_color=ffffff00&color=8b949e&line=26a641&point=8b949e&area_color=26a641&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="github contribution graph" /></a>
