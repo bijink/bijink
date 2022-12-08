@@ -42,9 +42,8 @@ A tech enthusiast, highly self-motivated and passionate about learning new thing
 
 <!-- stats -->
 <div width="100%" align="left">
-<a href="http://www.github.com/bijink"><img src="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=8b949e&icon_color=58a6ff&bg_color=ffffff00&hide_border=true&custom_title=GitHub%20Stats" alt="github stats" /></a><a href="https://github.com/bijink?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=8b949e&bg_color=ffffff00&hide_border=true&langs_count=8" alt="github most used languages stats" /></a>
+<a href="http://www.github.com/bijink"><img width="57.5%" src="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=8b949e&icon_color=58a6ff&bg_color=ffffff00&hide_border=true&custom_title=GitHub%20Stats" alt="github stats" /></a><a href="https://github.com/bijink?tab=repositories"><img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=8b949e&bg_color=ffffff00&hide_border=true&langs_count=8" alt="github most used languages stats" /></a>
 </div>
 
 <!-- graph -->
-<!-- <a href="http://www.github.com/bijink?tab=repositories"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bijink&bg_color=ffffff00&color=8b949e&line=26a641&point=8b949e&area_color=26a641&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="github contribution graph" /></a> -->
 <a href="http://www.github.com/bijink?tab=repositories"><img src="https://github-readme-activity-graph.bijink.repl.co/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="github contribution graph" /></a>
