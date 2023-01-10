@@ -46,4 +46,9 @@ A tech enthusiast, highly self-motivated and passionate about learning new thing
 </div>
 
 <!-- graph -->
-<a href="https://github.com/bijink?tab=repositories"><img src="https://github-readme-activity-graph.bijink.repl.co/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="github contribution graph" /></a>
+<!-- <a href="https://github.com/bijink?tab=repositories"><img src="https://github-readme-activity-graph.bijink.repl.co/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="github contribution graph" /></a> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-graph.cyclic.app/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=c9d1d9&color=8b949e&point=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contribution-graph.cyclic.app/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=24292f&color=57606a&point=24292f&line=30a14e">
+  <img alt="github contribution graph" src="https://github-contribution-graph.cyclic.app/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph">
+</picture>
