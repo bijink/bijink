@@ -41,14 +41,20 @@ A tech enthusiast, highly self-motivated and passionate about learning new thing
 </p>
 
 <!-- stats -->
-<div width="100%" align="left">
-<a href="https://github.com/bijink"><img width="58.5%" src="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=8b949e&icon_color=58a6ff&bg_color=ffffff00&hide_border=true&custom_title=GitHub%20Stats" alt="github stats" /></a><a href="https://github.com/bijink?tab=repositories"><img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=8b949e&bg_color=ffffff00&hide_border=true&langs_count=8" alt="github most used languages stats" /></a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=c9d1d9&icon_color=58a6ff&bg_color=ffffff00&hide_border=true&custom_title=GitHub%20Stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=24292f&icon_color=58a6ff&bg_color=ffffff00&hide_border=true&custom_title=GitHub%20Stats">
+  <img width="60%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=8b949e&icon_color=58a6ff&bg_color=ffffff00&hide_border=true&custom_title=GitHub%20Stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=c9d1d9&bg_color=ffffff00&hide_border=true&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=24292f&bg_color=ffffff00&hide_border=true&langs_count=8">
+  <img width="39.5%" alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=8b949e&bg_color=ffffff00&hide_border=true&langs_count=8">
+</picture>
 
 <!-- graph -->
-<!-- <a href="https://github.com/bijink?tab=repositories"><img src="https://github-readme-activity-graph.bijink.repl.co/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="github contribution graph" /></a> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-graph.cyclic.app/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=c9d1d9&color=8b949e&point=c9d1d9">
   <source media="(prefers-color-scheme: light)" srcset="https://github-contribution-graph.cyclic.app/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=24292f&color=57606a&point=24292f&line=30a14e">
-  <img alt="github contribution graph" src="https://github-contribution-graph.cyclic.app/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph">
+  <img alt="GitHub Contribution Graph" src="https://github-contribution-graph.cyclic.app/graph?username=bijink&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph">
 </picture>
