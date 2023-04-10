@@ -44,12 +44,11 @@ A tech enthusiast, highly self-motivated and passionate about learning new thing
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=c9d1d9&icon_color=58a6ff&bg_color=00000000&hide_border=true&custom_title=GitHub%20Statistics">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=24292f&icon_color=58a6ff&bg_color=00000000&hide_border=true&custom_title=GitHub%20Statistics">
-  <img width="60%" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=8b949e&icon_color=58a6ff&bg_color=00000000&hide_border=true&custom_title=GitHub%20Statistics">
-</picture>
-<picture>
+  <img width="59%" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=8b949e&icon_color=58a6ff&bg_color=00000000&hide_border=true&custom_title=GitHub%20Statistics">
+</picture><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=c9d1d9&bg_color=00000000&hide_border=true&langs_count=8">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=24292f&bg_color=00000000&hide_border=true&langs_count=8">
-  <img width="39.5%" alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=8b949e&bg_color=00000000&hide_border=true&langs_count=8">
+  <img width="38%" alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=8b949e&bg_color=00000000&hide_border=true&langs_count=8">
 </picture>
 
 <!-- graph -->
