@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Bijin
 
-A tech enthusiast, highly self-motivated and passionate about learning new things.
+A tech enthusiast, highly self-motivated, and passionate about learning new things.
 * On the way to ME[R](https://react.dev)N stack web development
 * Currently learning Mobile app development with React Native
 * See my portfolio at [Bijin](https://bijink.github.io)
@@ -9,35 +9,35 @@ A tech enthusiast, highly self-motivated and passionate about learning new thing
 #### Have skills in :
 <p align="left">
 <!-- js -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="30" alt="JavaScript" /></a>
 <!-- ts -->
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="30" alt="Typescript" /></a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="30" alt="TypeScript" /></a>
 <!-- reactjs -->
-<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30" alt="ReactJS" /></a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="30" alt="ReactJS" /></a>
 <!-- nextjs -->
-<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="30" alt="NextJS" /></a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="30" alt="NextJS" /></a>
 <!-- html -->
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML5" /></a>
 <!-- css -->
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS3" /></a>
 <!-- sass -->
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="30" alt="Sass" /></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="30" alt="Sass" /></a>
 <!-- mui -->
-<a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="30" alt="MaterialUI" /></a>
+<a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" width="30" alt="MaterialUI" /></a>
 <!-- bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="30" alt="Bootstrap" /></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="30" alt="Bootstrap" /></a>
 <!-- tailwindCSS -->
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" alt="TailwindCSS" /></a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwindcss" width="30" alt="TailwindCSS" /></a>
 <!-- jquery -->
-<a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="30" alt="jQuery" /></a>
+<a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jquery" width="30" alt="jQuery" /></a>
 <!-- redux -->
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="30" alt="Redux" /></a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" width="30" alt="Redux" /></a>
 <!-- webpack -->
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="30" alt="Webpack" /></a>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webpack" width="30" alt="Webpack" /></a>
 <!-- firebase -->
-<a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" alt="Firebase" /></a>
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="30" alt="Firebase" /></a>
 <!-- git -->
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" alt="Git" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="30" alt="Git" /></a>
 </p>
 
 <!-- stats -->
