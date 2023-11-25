@@ -9,35 +9,35 @@ A tech enthusiast, highly self-motivated, and passionate about learning new thin
 #### Have skills in :
 <p align="left">
 <!-- js -->
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="30" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="35" alt="JavaScript" /></a>
 <!-- ts -->
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="30" alt="TypeScript" /></a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="35" alt="TypeScript" /></a>
 <!-- reactjs -->
-<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="30" alt="ReactJS" /></a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="35" alt="ReactJS" /></a>
 <!-- nextjs -->
-<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="30" alt="NextJS" /></a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="35" alt="NextJS" /></a>
 <!-- html -->
-<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="30" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="35" alt="HTML5" /></a>
 <!-- css -->
-<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="30" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="35" alt="CSS3" /></a>
 <!-- sass -->
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="30" alt="Sass" /></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="35" alt="Sass" /></a>
 <!-- mui -->
-<a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" width="30" alt="MaterialUI" /></a>
+<a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" width="35" alt="MaterialUI" /></a>
 <!-- bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="30" alt="Bootstrap" /></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="35" alt="Bootstrap" /></a>
 <!-- tailwindCSS -->
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwindcss" width="30" alt="TailwindCSS" /></a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwindcss" width="35" alt="TailwindCSS" /></a>
 <!-- jquery -->
-<a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jquery" width="30" alt="jQuery" /></a>
+<a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jquery" width="35" alt="jQuery" /></a>
 <!-- redux -->
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" width="30" alt="Redux" /></a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" width="35" alt="Redux" /></a>
 <!-- webpack -->
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webpack" width="30" alt="Webpack" /></a>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webpack" width="35" alt="Webpack" /></a>
 <!-- firebase -->
-<a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="30" alt="Firebase" /></a>
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="35" alt="Firebase" /></a>
 <!-- git -->
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="30" alt="Git" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="35" alt="Git" /></a>
 </p>
 
 <!-- stats -->
