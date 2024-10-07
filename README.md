@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Bijin
 
 A tech enthusiast, highly self-motivated, and passionate about learning new things.
-* On the way to ME[R](https://react.dev)N stack web development
-* Currently learning Mobile app development with React Native
+* _
+* Currently learning _
 * See my portfolio at [Bijin](https://bijink.github.io)
 
 
