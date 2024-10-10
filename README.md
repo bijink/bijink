@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Bijin
 
 I'm a web developer with 1 year of experience as a React.js developer and a focus on full-stack development. I’ve expanded my skills to backend development with Node.js, making me a proficient MERN stack developer. I build dynamic, responsive web applications, creating seamless user experiences while continuously expanding my skill set.
-* Highly self-motivated, and passionate about learning new things
 * Enthusiastic about leveraging technology to enhance user experiences
+* Highly self-motivated, and passionate about learning new things
 * See my portfolio at [Bijin Kandengala](https://bijink.github.io)
 
 
