@@ -39,14 +39,14 @@ I'm a web developer with 1 year of experience as a React.js developer and a focu
 <!-- git -->
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="35" alt="Git" /></a>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="35" alt="Git" /></a>
-<a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="35" alt="Git" /></a>
-<a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" width="35" alt="Git" /></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="35" alt="Git" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="35" alt="Git" /></a>
-<a href="https://kernel.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="35" alt="Git" /></a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="35" alt="Git" /></a>
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="35" alt="Git" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="35" alt="NodeJS" /></a>
+<a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="35" alt="MongoDB" /></a>
+<a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" width="35" alt="Nginx" /></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="35" alt="ExpressJS" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="35" alt="AWS" /></a>
+<a href="https://kernel.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="35" alt="Linux" /></a>
+<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="35" alt="Postman" /></a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="35" alt="VSCode" /></a>
 </p>
 
 <!-- stats -->
