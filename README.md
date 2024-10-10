@@ -38,6 +38,15 @@ I'm a web developer with 1 year of experience as a React.js developer and a focu
 <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="35" alt="Firebase" /></a>
 <!-- git -->
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="35" alt="Git" /></a>
+
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="35" alt="Git" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="35" alt="Git" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" width="35" alt="Git" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="35" alt="Git" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="35" alt="Git" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="35" alt="Git" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="35" alt="Git" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="35" alt="Git" /></a>
 </p>
 
 <!-- stats -->
