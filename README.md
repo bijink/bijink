@@ -38,18 +38,18 @@ I'm a web developer with 1 year of experience as a React.js developer and a focu
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="35" alt="Sass" /></a>
 <!-- firebase -->
 <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="35" alt="Firebase" /></a>
+<!-- postman -->
+<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="35" alt="Postman" /></a>
 <!-- nginx -->
 <a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" width="35" alt="Nginx" /></a>
 <!-- aws -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="35" alt="AWS" /></a>
-<!-- postman -->
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="35" alt="Postman" /></a>
-<!-- vscode -->
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="35" alt="VSCode" /></a>
 <!-- git -->
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="35" alt="Git" /></a>
 <!-- linux -->
 <a href="https://kernel.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="35" alt="Linux" /></a>
+<!-- vscode -->
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="35" alt="VSCode" /></a>
 <!-- webpack -->
 <!-- <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webpack" width="35" alt="Webpack" /></a> -->
 <!-- bootstrap -->
