@@ -1,10 +1,13 @@
 ## Hi there 👋 I'm Bijin
 
-I'm a web developer with 1 year of experience as a React.js developer and a focus on full-stack development. I’ve expanded my skills to backend development with Node.js, making me a proficient [MERN](https://www.geeksforgeeks.org/mern-stack) stack developer. I build dynamic, responsive web applications, creating seamless user experiences while continuously expanding my skill set.
-* Enthusiastic about leveraging technology to enhance user experiences
-* Highly self-motivated, and passionate about learning new things
-* See my portfolio at [Bijin Kandengala](https://bijinkandengala.in)
+I'm a frontend-focused web developer who enjoys building clean, responsive, and user-friendly web applications. I specialize in crafting intuitive interfaces and smooth user experiences with a strong focus on performance and scalability. I'm passionate about solving real-world problems through code and always eager to learn and adapt.
 
+- ✨ Driven by curiosity and a desire to build impactful digital products
+- 🧠 Always learning — from design patterns to system thinking
+- 🎯 Detail-oriented, with a focus on code clarity and maintainability
+- 🌐 Interested in exploring every layer of the web — from UI to server logic
+- 🛠️ Love creating things solo — full-stack projects, micro tools, and experiments
+- 🔗 Check out my portfolio at [Bijin Kandengala](https://bijinkandengala.in)
 
 #### Have skills in :
 <p align="left">
