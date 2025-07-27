@@ -25,6 +25,8 @@ I'm a frontend-focused web developer who enjoys building clean, responsive, and 
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="35" alt="NextJS" /></a>
   <!-- mongodb -->
   <a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="35" alt="MongoDB" /></a>
+   <!-- postgresql -->
+  <a href="https://postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgresql" width="35" alt="PostgreSQL" /></a>
   <!-- html -->
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="35" alt="HTML5" /></a>
   <!-- css -->
