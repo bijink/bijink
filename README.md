@@ -4,8 +4,8 @@ I'm a frontend-focused web developer who enjoys building clean, responsive, and 
 
 - ✨ Driven by curiosity and a desire to build impactful digital products
 - 🧠 Always learning — from design patterns to system thinking
-- 🎯 Detail-oriented, with a focus on code clarity and maintainability
 - 🌐 Interested in exploring every layer of the web — from UI to server logic
+- 🎯 Detail-oriented, with a focus on code clarity and maintainability
 - 🛠️ Love creating things solo — full-stack projects, micro tools, and experiments
 - 🔗 Check out my portfolio at [Bijin Kandengalath](https://bijinkandengala.in)
 
