@@ -61,11 +61,11 @@ I'm a frontend-focused web developer who enjoys building clean, responsive, and 
 
 <!-- stats -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=c9d1d9&icon_color=58a6ff&bg_color=00000000&hide_border=true&custom_title=GitHub%20Statistics&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=24292f&icon_color=58a6ff&bg_color=00000000&hide_border=true&custom_title=GitHub%20Statistics&rank_icon=github">
-  <img width="59%" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=bijink&show_icons=true&text_color=8b949e&icon_color=58a6ff&bg_color=00000000&hide_border=true&custom_title=GitHub%20Statistics&rank_icon=github">
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh-md-stats.vercel.app/api?username=bijink&show_icons=true&text_color=c9d1d9&icon_color=58a6ff&bg_color=00000000&hide_border=true&custom_title=GitHub%20Statistics&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://gh-md-stats.vercel.app/api?username=bijink&show_icons=true&text_color=24292f&icon_color=58a6ff&bg_color=00000000&hide_border=true&custom_title=GitHub%20Statistics&rank_icon=github">
+  <img width="59%" alt="GitHub Statistics" src="https://gh-md-stats.vercel.app/api?username=bijink&show_icons=true&text_color=8b949e&icon_color=58a6ff&bg_color=00000000&hide_border=true&custom_title=GitHub%20Statistics&rank_icon=github">
 </picture><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=e5eaee&bg_color=00000000&hide_border=true&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=24292f&bg_color=00000000&hide_border=true&langs_count=8">
-  <img width="38%" alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=8b949e&bg_color=00000000&hide_border=true&langs_count=8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh-md-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=e5eaee&bg_color=00000000&hide_border=true&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://gh-md-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=24292f&bg_color=00000000&hide_border=true&langs_count=8">
+  <img width="38%" alt="GitHub Most Used Languages" src="https://gh-md-stats.vercel.app/api/top-langs/?username=bijink&layout=compact&text_color=8b949e&bg_color=00000000&hide_border=true&langs_count=8">
 </picture>
