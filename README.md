@@ -19,34 +19,34 @@ I'm a frontend-focused web developer who enjoys building clean, responsive, and 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="35" alt="NodeJS" /></a>
   <!-- expressjs -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="35" alt="ExpressJS" /></a>
+  <!-- nestjs -->
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nest" width="35" alt="NestJS" /></a>
+  <!-- mysql -->
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="35" alt="MySQL" /></a>
+  <!-- postgresql -->
+  <a href="https://postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgresql" width="35" alt="PostgreSQL" /></a>
+  <!-- mongodb -->
+  <a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="35" alt="MongoDB" /></a>
+  <!-- prisma -->
+  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=prisma" width="35" alt="Prisma" /></a>
+  <!-- redis -->
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" width="35" alt="Redis" /></a>
+  <!-- firebase -->
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="35" alt="Firebase" /></a>
+  <!-- supabase -->
+  <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="35" alt="Supabase" /></a>
+  <!-- postman -->
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="35" alt="Postman" /></a>
   <!-- reactjs -->
   <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="35" alt="ReactJS" /></a>
   <!-- nextjs -->
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="35" alt="NextJS" /></a>
-  <!-- mongodb -->
-  <a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="35" alt="MongoDB" /></a>
-   <!-- postgresql -->
-  <a href="https://postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgresql" width="35" alt="PostgreSQL" /></a>
-  <!-- html -->
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="35" alt="HTML5" /></a>
-  <!-- css -->
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="35" alt="CSS3" /></a>
-  <!-- redux -->
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" width="35" alt="Redux" /></a>
-  <!-- jquery -->
-  <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jquery" width="35" alt="jQuery" /></a>
   <!-- tailwindcss -->
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwindcss" width="35" alt="TailwindCSS" /></a>
   <!-- mui -->
   <a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" width="35" alt="MaterialUI" /></a>
-  <!-- bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="35" alt="Bootstrap" /></a>
-  <!-- sass -->
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="35" alt="Sass" /></a>
-  <!-- firebase -->
-  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="35" alt="Firebase" /></a>
-  <!-- postman -->
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="35" alt="Postman" /></a>
+  <!-- docker -->
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="35" alt="Docker" /></a>
   <!-- nginx -->
   <a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" width="35" alt="Nginx" /></a>
   <!-- aws -->
@@ -55,8 +55,6 @@ I'm a frontend-focused web developer who enjoys building clean, responsive, and 
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="35" alt="Git" /></a>
   <!-- linux -->
   <a href="https://kernel.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="35" alt="Linux" /></a>
-  <!-- vscode -->
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="35" alt="VSCode" /></a>
 </p>
 
 <!-- stats -->
