@@ -45,6 +45,8 @@ I'm a frontend-focused web developer who enjoys building clean, responsive, and 
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwindcss" width="35" alt="TailwindCSS" /></a>
   <!-- mui -->
   <a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" width="35" alt="MaterialUI" /></a>
+  <!-- jest -->
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest" width="35" alt="Jest" /></a>
   <!-- docker -->
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="35" alt="Docker" /></a>
   <!-- nginx -->
