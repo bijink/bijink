@@ -1,13 +1,12 @@
 ## Hi there 👋 I'm Bijin
 
-I'm a frontend-focused web developer who enjoys building clean, responsive, and user-friendly web applications. I specialize in crafting intuitive interfaces and smooth user experiences with a strong focus on performance and scalability. I'm passionate about solving real-world problems through code and always eager to learn and adapt.
+I'm a Backend Developer specializing in building scalable APIs and backend systems using Node.js and NestJS. I work on clean architecture, authentication and authorization, and database-driven applications, with a strong focus on performance, reliability, and maintainable code. Alongside that, I work on frontend development using React.js for freelance projects, building responsive and user-friendly interfaces.
 
-- ✨ Driven by curiosity and a desire to build impactful digital products
-- 🧠 Always learning — from design patterns to system thinking
-- 🌐 Interested in exploring every layer of the web — from UI to server logic
-- 🎯 Detail-oriented, with a focus on code clarity and maintainability
-- 🛠️ Love creating things solo — full-stack projects, micro tools, and experiments
-- 🔗 Check out my portfolio at [Bijin Krishn](https://bijinkandengala.in)
+- ✨ Backend-first approach with a focus on production-ready systems
+- 🧠 Actively improving in system design and backend architecture
+- 🔐 Experience with authentication, authorization, and secure API design
+- 🎯 Strong focus on code clarity, structure, and maintainability
+- ⚙️ Emphasis on performance and reliability in real-world applications
 
 #### Have skills in :
 <p align="left">
