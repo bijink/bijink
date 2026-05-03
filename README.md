@@ -2,11 +2,11 @@
 
 I'm a Backend Developer specializing in building scalable APIs and backend systems using Node.js and NestJS. I work on clean architecture, authentication and authorization, and database-driven applications, with a strong focus on performance, reliability, and maintainable code. Alongside that, I work on frontend development using React.js for freelance projects, building responsive and user-friendly interfaces.
 
-- ✨ Backend-first approach with a focus on production-ready systems
+- 🏗️ Backend-first approach with a focus on production-ready systems
 - 🧠 Actively improving in system design and backend architecture
 - 🔐 Experience with authentication, authorization, and secure API design
 - 🎯 Strong focus on code clarity, structure, and maintainability
-- ⚙️ Emphasis on performance and reliability in real-world applications
+- 🚀 Emphasis on performance and reliability in real-world applications
 
 #### Have skills in :
 <p align="left">
