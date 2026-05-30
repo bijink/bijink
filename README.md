@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Bijin
 
-I'm a Backend Developer specializing in building scalable APIs and backend systems using Node.js and NestJS. I work on clean architecture, authentication and authorization, and database-driven applications, with a strong focus on performance, reliability, and maintainable code. Alongside that, I work on frontend development using React.js for freelance projects, building responsive and user-friendly interfaces.
+I'm a Backend Developer specializing in building scalable APIs and backend systems using Node.js and TypeScript. I work on clean architecture, authentication and authorization, and database-driven applications, with a strong focus on performance, reliability, and maintainable code. Alongside that, I work on frontend development using React.js for freelance projects, building responsive and user-friendly interfaces.
 
 - ⚙️ Backend-first approach with a focus on production-ready systems
 - 🧠 Actively improving in system design and backend architecture
