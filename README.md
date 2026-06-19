@@ -5,7 +5,6 @@ I'm a Web Developer with a strong focus on backend development using Node.js and
 - 🌐 Building full-stack applications with Node.js, TypeScript, React.js, and Next.js
 - ⚙️ Designing secure APIs, business logic, and data models
 - 🎨 Building responsive, accessible, and intuitive user interfaces
-- 🧠 Continuously improving in system design, software architecture, and cloud technologies
 - 🔐 Strong focus on security, performance, and code quality
 - 🚀 Passionate about building scalable, maintainable, and production-ready applications
 
