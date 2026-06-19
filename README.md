@@ -1,12 +1,13 @@
 ## Hi there 👋 I'm Bijin
 
-I'm a Backend Developer specializing in building scalable APIs and backend systems using Node.js and TypeScript. I work on clean architecture, authentication and authorization, and database-driven applications, with a strong focus on performance, reliability, and maintainable code. Alongside that, I work on frontend development using React.js for freelance projects, building responsive and user-friendly interfaces.
+I'm a Web Developer with a strong focus on backend development using Node.js and TypeScript. I build scalable APIs, backend services, and database-driven applications while developing modern, responsive frontend interfaces with React.js and Next.js. I enjoy building reliable, production-ready web applications with clean architecture, maintainable code, and a great user experience.
 
-- ⚙️ Backend-first approach with a focus on production-ready systems
-- 🧠 Actively improving in system design and backend architecture
-- 🔐 Experience with authentication, authorization, and secure API design
-- 🎯 Strong focus on code clarity, structure, and maintainability
-- 🚀 Emphasis on performance and reliability in real-world applications
+- 🌐 Building full-stack applications with Node.js, TypeScript, React.js, and Next.js
+- ⚙️ Designing secure APIs, business logic, and data models
+- 🎨 Building responsive, accessible, and intuitive user interfaces
+- 🧠 Continuously improving in system design, software architecture, and cloud technologies
+- 🔐 Strong focus on security, performance, and code quality
+- 🚀 Passionate about building scalable, maintainable, and production-ready applications
 
 #### Have skills in :
 <p align="left">
