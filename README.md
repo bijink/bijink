@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Bijin
 
-I'm a Web Developer with a strong focus on backend development using Node.js and TypeScript. I build scalable APIs, backend services, and database-driven applications while developing modern, responsive frontend interfaces with React.js. I enjoy building reliable, production-ready web applications with clean architecture, maintainable code, and a great user experience.
+I'm a Web Developer with a strong focus on backend development using Node.js and TypeScript. I build backend services and database-driven applications while developing modern, responsive frontend interfaces with React.js. I enjoy building reliable, production-ready web applications with clean architecture, maintainable code, and a great user experience.
 
 - 🌐 Building applications with Node.js, TypeScript, Express.js, NextJS, React.js, and Next.js
 - ⚙️ Designing secure APIs, business logic, and data models
